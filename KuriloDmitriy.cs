@@ -8,5 +8,6 @@ namespace ConsoleRelease2
 {
 	class KuriloDmitriy
 	{
+		public static string NAME = "";
 	}
 }
